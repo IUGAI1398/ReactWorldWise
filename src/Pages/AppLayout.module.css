@@ -1,6 +1,7 @@
 .app {
   height: 100vh;
   padding: 2.4rem;
+  background-color: var(--color-dark--2);
   overscroll-behavior-y: none;
   display: flex;
   position: relative;
