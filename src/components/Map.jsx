@@ -12,7 +12,7 @@ export default function Map() {
   const [mapPositiocn, setMapPosition] = useState([51.505, -0.09]);
   const [searchParams] = useSearchParams(); // Remove unused setserachParams
   const { isLoading: isLoadingPosition, position: geoLocationPositon, getPosition } = useGeolocation();
-
+ 
   // Get lat and lng values from searchParams
   const mapLat = searchParams.get("lat");
   const mapLng = searchParams.get("lng");
