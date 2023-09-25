@@ -13,7 +13,7 @@ import CountryList from './components/CountriesList'
 import City from './components/City'
 import Form from './components/Form'
 import { CitiesProvider } from './contexts/CitiesContext'
-
+import MapSuccess from './Pages/MapSuccess'
 export default function App() {
 
 
@@ -31,6 +31,7 @@ export default function App() {
             <Route path='form' element={<Form />} />
           </Route>
           <Route path='product' element={<Product />} />
+          <Route path='map' element={<MapSuccess/>} />
           <Route path='pricing' element={<Pricing />} />
           <Route path='login' element={<Login />} />
           <Route path='*' element={<PageNotFound />} />
