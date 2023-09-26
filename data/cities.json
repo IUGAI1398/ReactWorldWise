@@ -1,88 +1,40 @@
 {
   "cities": [
     {
-      "cityName": "Bishkek",
-      "country": "Kyrgyzstan",
-      "emoji": "🇰🇬",
-      "date": "2023-09-25T14:48:58.817Z",
-      "notes": "My City",
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
       "position": {
-        "lat": "42.852978638545615",
-        "lng": "74.6412001095902"
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
       },
-      "id": 73930387
+      "id": 73930385
     },
     {
-      "cityName": "Dubai",
-      "country": "United Arab Emirates (the)",
-      "emoji": "🇦🇪",
-      "date": "2023-09-25T14:49:34.232Z",
-      "notes": "13 year old",
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
       "position": {
-        "lat": "25.106132918071754",
-        "lng": "55.43705077333818"
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
       },
-      "id": 73930388
+      "id": 17806751
     },
     {
-      "cityName": "Amphawa",
-      "country": "Thailand",
-      "emoji": "🇹🇭",
-      "date": "2023-09-25T14:50:25.950Z",
-      "notes": "Patayya",
+      "cityName": "Hodnet",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2023-09-25T13:51:57.123Z",
+      "notes": "",
       "position": {
-        "lat": "13.41268768294278",
-        "lng": "99.90976478779882"
+        "lat": "52.86822128054638",
+        "lng": "-2.5887612326915703"
       },
-      "id": 73930389
-    },
-    {
-      "cityName": "Nanjing",
-      "country": "China",
-      "emoji": "🇨🇳",
-      "date": "2023-09-25T14:51:19.932Z",
-      "notes": "Study",
-      "position": {
-        "lat": "31.999177164251602",
-        "lng": "118.8226693465071"
-      },
-      "id": 73930390
-    },
-    {
-      "cityName": "Seoul",
-      "country": "Korea (the Republic of)",
-      "emoji": "🇰🇷",
-      "date": "2023-09-25T14:52:15.164Z",
-      "notes": "My City",
-      "position": {
-        "lat": "37.46172505311052",
-        "lng": "127.09005555302232"
-      },
-      "id": 73930391
-    },
-    {
-      "cityName": "Sharm el-Sheikh",
-      "country": "Egypt",
-      "emoji": "🇪🇬",
-      "date": "2023-09-25T14:53:05.365Z",
-      "notes": "Anara",
-      "position": {
-        "lat": "27.81131260730498",
-        "lng": "34.2279321575261"
-      },
-      "id": 73930392
-    },
-    {
-      "cityName": "Almaty",
-      "country": "Kazakhstan",
-      "emoji": "🇰🇿",
-      "date": "2023-09-25T14:53:51.281Z",
-      "notes": "airpt",
-      "position": {
-        "lat": "43.20990028457631",
-        "lng": "76.90983336240798"
-      },
-      "id": 73930393
+      "id": 98443203
     }
   ]
 }
